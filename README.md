@@ -8,9 +8,9 @@ The main objective of this project is to create a web-based working prototype of
 
 Demo:
 
-https://www.youtube.com/watch?v=l5vKJo2LTOA&ab_channel=PreetPatel
+https://youtu.be/l5vKJo2LTOA
 
-[![https://www.youtube.com/watch?v=l5vKJo2LTOA&ab_channel=PreetPatel](https://img.youtube.com/vi/l5vKJo2LTOA&ab_channel=PreetPatel/0.jpg)](https://www.youtube.com/watch?v=l5vKJo2LTOA&ab_channel=PreetPatel)
+[![https://youtu.be/l5vKJo2LTOA](https://img.youtube.com/vi/l5vKJo2LTOA/0.jpg)](https://www.youtube.com/watch?v=l5vKJo2LTOA)
 
 
 Table of Content
