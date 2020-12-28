@@ -10,7 +10,7 @@ Demo:
 
 https://www.youtube.com/watch?v=l5vKJo2LTOA&ab_channel=PreetPatel
 
-[![https://www.youtube.com/watch?v=l5vKJo2LTOA&ab_channel=PreetPatel](https://img.youtube.com/vi/l5vKJo2LTOA&ab/0.jpg)](https://www.youtube.com/watch?v=l5vKJo2LTOA&ab)
+[![https://www.youtube.com/watch?v=l5vKJo2LTOA&ab_channel=PreetPatel](https://img.youtube.com/vi/l5vKJo2LTOA&ab_channel=PreetPatel/0.jpg)](https://www.youtube.com/watch?v=l5vKJo2LTOA&ab_channel=PreetPatel)
 
 
 Table of Content
